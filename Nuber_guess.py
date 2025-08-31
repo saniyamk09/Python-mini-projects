@@ -12,7 +12,8 @@ while(comp!=user):
         print("Bigger number please")
         attempts+=1
 print(f"You guessed it right in {attempts} attempts " ,end="")
-input("Game over!")
+print("Game over!")
 
 
              
+
