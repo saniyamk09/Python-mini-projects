@@ -41,5 +41,6 @@ while tries >= 0:
 if tries == 0:
     print(f"You lost! The word was:{word}")
 
-input("Game over!")
+print("Game over!")
         
+
